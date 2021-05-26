@@ -19,7 +19,7 @@ Med hjälp av detta system, tilemaps som ingår i Unity kan man enkelt och snabb
 Unity använder sig av C# som programmeringsspråk vilket är väldigt likt C++ som jag har programmerat i tidigare vilket gjorde det enkelt att programmera.
 Men samtidigt behövde jag lära mig hur man använder Unitys funktioner i C# med tanke på att jag aldrig använt Unity förut.
 
-Det som tog längst tid att programmera var träd huggnings och planterings funktionen. Programmet behövde ha koll på vilket träd man hugger eller vilka träd som är i närheten när man plantera. Det var klurigt men lösningen blev bra, funktion fungerar utan kända buggar.
+Det som tog längst tid att programmera var träd huggnings och planterings funktionen. Programmet behövde ha koll på vilket träd man hugger eller vilka träd som är i närheten när man plantera. Det var klurigt men lösningen blev bra och funktion fungerar utan kända buggar.
 
 ## Resultat
 
