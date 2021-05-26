@@ -12,7 +12,7 @@ Man kan också köpa en motorsåg som gör att man fäller ner träd snabbare.
 
 ## Arbetsprocessen
 
-Jag började med att spåna idéer ovh fastnade för att göra ett tycoon-spel dels för att jag tycker om sådana och dels för ingen verkade göra den typen av spel. Jag ville också använda mig av Unitys fysik och renderingsmotor och då blev ett Lumber Tycoon spel ett självklart val.
+Jag började med att spåna idéer och fastnade för att göra ett tycoon-spel dels för att jag tycker om sådana och dels för ingen verkade göra den typen av spel. Jag ville också använda mig av Unitys fysik och renderingsmotor och då blev ett Lumber Tycoon spel ett självklart val.
 Tidigt hittade jag två bra assets en med terräng och en med animationer till karaktären vilket blev grunden i grafiken. Alla andra grafiska element behövde passa den stilen, medel upplöst pixel art. 
 Terrängen är tile baserad alltså att terrängen består av ett rutnät där varje ruta har en textur t.ex gräs och jord. 
 Med hjälp av detta system, tilemaps som ingår i Unity kan man enkelt och snabbt skapa ny varierad terräng.
