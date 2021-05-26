@@ -1,4 +1,6 @@
-(C:\Users\S0axeahm\Pictures\Saved Pictures\LT2D.PNG?raw=true "Optional Title")
+# Lumber Tycoon 2D
+
+<img width="632" alt="LT2D" src="https://user-images.githubusercontent.com/69853455/119678829-256cbe00-be40-11eb-87fc-a0eec4dc8e3d.PNG">
 
 ## inledning
 
@@ -22,7 +24,6 @@ Det som tog längst tid att programmera var träd huggnings och planterings funk
 ## Resultat
 Lumber Tycoon 2D blev ett bra spel relativt den tid vi fick. Spelet är helt funktionellt och innehåller inga kända buggar. Spelet har inget slut vilket gör att man kan spela det i en oändlighet men efter man har köpt motorsågen finns det inget direkt mål.
 Min personliga favoritfunktion är att priset faller när du säljer trä. Många spel har den inbyggd men den är inte särskilt synlig och har inte stor påverkan. I detta spel faller priset med 5 % för varje träd man säljer vilket gör att man inte kan sälja att på samma gång för då skulle man sälja utan att gå i vinst. 
-Till exempel de små funktionerna, att priset ändras när du säljer och att priset ändras lite hela tiden gör att spelet blir betydligt mer intressant och lägger till en dynamisk svårighetsgrad.
 
 ## Förbättringar
 
